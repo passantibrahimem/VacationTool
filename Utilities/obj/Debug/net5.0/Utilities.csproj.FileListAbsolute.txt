@@ -1,0 +1,16 @@
+C:\Users\softec-02\source\repos\VacationToolAPI\Utilities\bin\Debug\net5.0\Utilities.exe
+C:\Users\softec-02\source\repos\VacationToolAPI\Utilities\bin\Debug\net5.0\Utilities.deps.json
+C:\Users\softec-02\source\repos\VacationToolAPI\Utilities\bin\Debug\net5.0\Utilities.runtimeconfig.json
+C:\Users\softec-02\source\repos\VacationToolAPI\Utilities\bin\Debug\net5.0\Utilities.runtimeconfig.dev.json
+C:\Users\softec-02\source\repos\VacationToolAPI\Utilities\bin\Debug\net5.0\Utilities.dll
+C:\Users\softec-02\source\repos\VacationToolAPI\Utilities\bin\Debug\net5.0\ref\Utilities.dll
+C:\Users\softec-02\source\repos\VacationToolAPI\Utilities\bin\Debug\net5.0\Utilities.pdb
+C:\Users\softec-02\source\repos\VacationToolAPI\Utilities\obj\Debug\net5.0\Utilities.csproj.AssemblyReference.cache
+C:\Users\softec-02\source\repos\VacationToolAPI\Utilities\obj\Debug\net5.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\softec-02\source\repos\VacationToolAPI\Utilities\obj\Debug\net5.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\softec-02\source\repos\VacationToolAPI\Utilities\obj\Debug\net5.0\Utilities.AssemblyInfo.cs
+C:\Users\softec-02\source\repos\VacationToolAPI\Utilities\obj\Debug\net5.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\softec-02\source\repos\VacationToolAPI\Utilities\obj\Debug\net5.0\Utilities.dll
+C:\Users\softec-02\source\repos\VacationToolAPI\Utilities\obj\Debug\net5.0\ref\Utilities.dll
+C:\Users\softec-02\source\repos\VacationToolAPI\Utilities\obj\Debug\net5.0\Utilities.pdb
+C:\Users\softec-02\source\repos\VacationToolAPI\Utilities\obj\Debug\net5.0\Utilities.genruntimeconfig.cache
